@@ -1,0 +1,19 @@
+{
+  "name": "kholuutru",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "compression": "^1.7.4",
+    "express": "^4.18.0",
+    "mammoth": "^1.4.21",
+    "path": "^0.12.7",
+    "pdf2html": "^2.6.6"
+  }
+}
